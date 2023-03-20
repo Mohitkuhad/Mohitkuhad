@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **React Js, HTML, CSS, JavaScript, Bootstrap, Tailwind**
 
 - 📫 How to reach me **mohitkuhad8@gmail.com**
 
