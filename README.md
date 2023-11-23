@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohit Kuhad</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/dlqpxszzo/image/upload/v1679291190/NxvpnjfQ_4x.jpg_ffcgfd.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkuhad&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkuhad" /> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **GSAP**
 
 - 💬 Ask me about **React Js, HTML, CSS, JavaScript, Bootstrap, Tailwind**
 
