@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GSAP**
 
-- 💬 Ask me about **React Js, HTML, CSS, JavaScript, Bootstrap, Tailwind**
+- 💬 Ask me about **React Js, React Native, Node Js, Express Js, HTML, CSS, JavaScript, Bootstrap, Tailwind**
 
 - 📫 How to reach me **mohitkuhad8@gmail.com**
 
